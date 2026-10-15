@@ -1,0 +1,18 @@
+hivenal
+Copyright (c) 2026 Michał Chalasz. All rights reserved.
+
+Permission is granted, free of charge, to download, install and use released versions of
+hivenal on your own computers for any purpose.
+
+You may not copy (except as needed to install and run it), modify, merge, publish,
+distribute, sublicense or sell the software or any part of it, including its source files,
+without prior written permission from the copyright holder.
+
+Third-party components bundled with hivenal remain under their own licenses, included in
+each release archive (THIRD-PARTY-LICENSES, runtime/LICENSE and the bundled packages' own
+LICENSE files).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
