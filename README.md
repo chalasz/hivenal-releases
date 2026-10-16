@@ -49,7 +49,7 @@ once with these commands, in this order, without `--force`:
 brew uninstall hivenal
 brew untap chalasz/hivenal
 brew tap chalasz/hivenal https://github.com/chalasz/hivenal-releases.git
-brew install hivenal
+brew install chalasz/hivenal/hivenal
 "$(brew --prefix hivenal)/bin/hivenal" update --bundle "$(brew --prefix hivenal)/libexec"
 hivenal --version
 ```
